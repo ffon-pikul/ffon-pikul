@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ffon-pikul/ffon-pikul/blob/main/banner.png" alt="Hero banner" width="100%">
-</p>
-
 ## 👋 Hi there, I'm Pikul Khampunyo (Fon)
 
 😄 Pronouns: she/her  
