@@ -1,10 +1,12 @@
-<h1>Pikul Khampunyo</h1>
+## 👋 Hi there, I'm Pikul Khampunyo (Fon)
 
-- 👋 Hi, I’m @pikul khampunyo
-- 😄 Pronouns: ffon
-- 👀 If you see my Github mean I’m looking for new job new experiences
-- 🌱 I’m currently woking at Nippon express logistics (Thailand) co. ltd,
-  Position is Full Stack Developer Mostly use java for development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: I’m easy person 
+😄 Pronouns: she/her  
+💼 Currently working as a Full Stack Developer at **Nippon Express Logistics (Thailand) Co., Ltd.**  
+🚀 Passionate about web development, backend logic, and clean code — mostly working with **Java**  
+🌱 Always eager to learn new technologies and grow through real-world challenges  
+👀 If you're reading this, it probably means I'm exploring new job opportunities and exciting projects  
+💞️ Looking to collaborate on meaningful, scalable, and community-driven software  
+📫 Reach me via email: **khampunyo.p@gmail.com**  
+⚡ Fun fact: I’m an easygoing person who loves hiking and film photography 🎞️
+
+> *“Keep learning, keep building, and stay curious.”*
