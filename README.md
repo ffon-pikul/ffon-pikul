@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her  
 💼 Currently working as a Full Stack Developer at **Nippon Express Logistics (Thailand) Co., Ltd.**  
-🚀 Passionate about web development, backend logic, and clean code — mostly working with **Java**  
+🚀 Passionate about full-stack development, system analysis, and delivering clean, scalable solutions  
 🌱 Always eager to learn new technologies and grow through real-world challenges  
 👀 If you're reading this, it probably means I'm exploring new job opportunities and exciting projects  
 💞️ Looking to collaborate on meaningful, scalable, and community-driven software  
